@@ -1,5 +1,5 @@
-This repository belongs to Elijah Cano and contains weekly  
-blogs written by Elijah Cano for a course in _Open Source Development_.
+This repository belongs to Elijah Cano and contains weekly blogs written by Elijah Cano for a course   
+in _Open Source Development_.
 
 # Instructions For Setting Up Your Weekly Blog Repository
 
