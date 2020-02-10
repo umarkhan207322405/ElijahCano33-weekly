@@ -1,4 +1,3 @@
-# **About Me**
 
 I am currently an undergraduate studying both Computer Science and Mathematics at Hunter College.  
 For the past few months, I have had the opportunity to work as a Software Engineering Intern at a startup   
