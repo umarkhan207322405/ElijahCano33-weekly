@@ -23,6 +23,5 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
+|   3    |  [link to first openstreet map contribution](https://www.openstreetmap.org/changeset/81082711)   |  OpenStreet Map feature   |   I got rid of the pizza point icon for Pastafina, a pizzaria place that used to be located on 876 Lexington Ave. I removed the point icon because the business is no longer in service as it was closed down a few months ago.   |
 |     |     |     |      |
